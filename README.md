@@ -19,7 +19,7 @@ Bharat Herald, a legacy newspaper spread across five Indian states, faces an exi
 
 ## Main Visualizations
 
-![Home and Overview]
+![Home and Overview](Images/Screenshot 2025-09-26 134438.png)
 
 - Executive summary, project flow (Printing, Digital Pilot, Ad ROI).
 
