@@ -19,23 +19,23 @@ Bharat Herald, a legacy newspaper spread across five Indian states, faces an exi
 
 ## Main Visualizations
 
-![Home and Overview](Images/Screenshot 2025-09-26 134438.png)
+<img src="Images/Homepage.png" alt="Home and Overview" width="400" />
 
 - Executive summary, project flow (Printing, Digital Pilot, Ad ROI).
 
-![Print Analysis Panel]
+<img src="Images/PrintAnalytics.png" alt="Print Analysis Panel" width="400" />
 
 - Time trends for print, city/state-wise net circulation, waste, and sales.
 
 - Revenue mapped geographically.
 
-![Digital Analysis Panel]
+<img src="Images/DigitalAnalytics.png" alt="Digital ANalytics Panel" width="400" />
 
 - E-paper downloads by month/city, bounce/conversion rates, cost/user.
 
 - Mobile/internet access and digital user share. 
 
-![Ad Revenue Panel]
+<img src="Images/RevenueAnalytics.png" alt="AD Revenue Panel" width="400" />
 
 - Revenue breakdown by ad category, city, and group.
 
